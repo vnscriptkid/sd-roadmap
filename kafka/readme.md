@@ -21,8 +21,7 @@
   -  Consumer group can have many consumers, each does the same job
   -  Limit: #consumers (of group) <= #partitions
   -  Each parition is assigned to one consumer: ensure msg is only read once per group
-  -  New consumer joins / Existing consumer leaves
-    - Rebalancing: Reassignment of partitions  
+  -  New consumer joins / Existing consumer leaves: Rebalancing (Reassignment of partitions)
 
 ## Sources
 - https://www.hellointerview.com/learn/system-design/deep-dives/kafka
