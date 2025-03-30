@@ -22,6 +22,11 @@
   -  Limit: #consumers (of group) <= #partitions
   -  Each parition is assigned to one consumer: ensure msg is only read once per group
   -  New consumer joins / Existing consumer leaves: Rebalancing (Reassignment of partitions)
+ 
+<img src="https://github.com/user-attachments/assets/acdcc1b5-369a-41a4-8d08-881027477a87" width="300" alt="image" />
+<img src="https://github.com/user-attachments/assets/52ece4ac-8d09-47be-9f04-c227992869ae" width="300" alt="image" />
+<img src="https://github.com/user-attachments/assets/b963ec29-8431-41b8-904f-3e03d1565118" width="300" alt="image" />
+<img src="https://github.com/user-attachments/assets/466ab85f-5e5d-4325-ba1b-29c042a9c506" width="300" alt="image" />
 
 ## Sources
 - https://www.hellointerview.com/learn/system-design/deep-dives/kafka
